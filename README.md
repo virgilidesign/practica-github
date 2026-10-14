@@ -19,4 +19,4 @@ El creador y único desarrollador de este proyecto es David Virgili Morales, alu
 
 #### 📂 Última actualización
 
-La última actualización ha sido el 14/10/2026.
+Fecha de última actualización: 14/10/2026.
