@@ -1,17 +1,18 @@
-# 🌐 Mi Primera Página Web en HTML
+# 🌐 Lenguaje de marcas y sistemas de gestión de información (Práctica 01 - Creación y configuración de una cuenta en GibHub)
 
-Práctica nº1 de la asignatura de **Lenguaje de Marcas y Sistemas de Gestión de Información**. Consiste en una página estática diseñada utilizando etiquetas básicas de HTML.
+Práctica nº1 de la asignatura de **Lenguaje de Marcas y Sistemas de Gestión de Información**. Consiste en una página estática diseñada utilizando etiquetas básicas de HTML y compartirla en GibHub.
 
 ---
 
 ## 📂 Estructura del Proyecto
 
-El repositorio está organizado de forma sencilla en un único directorio principal:
+El repositorio está organizado de forma sencilla en un único directorio principal: https://github.com/virgilidesign/practica-github
+ 
 
 📁 mi-web-html/
 │
 ├── 📄 index.html      # Archivo principal de la página web
-└── 📄 README.md       # Documentación y descripción del proyecto
+└── 📄 README.md       # Descripción del proyecto
 
 ### 📂 Autor
 
